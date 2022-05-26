@@ -47,7 +47,7 @@
 
 (bool) @boolean
 
-(string) @string
+(str) @string
 
 "ret" @keyword.return
 
