@@ -59,7 +59,7 @@
   "end"
 ] @keyword.function)
 
-(call name: (identifier) @function)
+(call function: (identifier) @function)
 (prim_call
 [
   "'"
