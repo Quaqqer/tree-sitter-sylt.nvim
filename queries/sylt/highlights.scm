@@ -39,6 +39,7 @@
 (identifier) @variable
 
 (type) @type
+(t_blob name: (identifier) @type)
 
 [
   (int)

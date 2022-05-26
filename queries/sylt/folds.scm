@@ -9,4 +9,5 @@
   (enum)
   (list)
   (tuple)
+  (block)
 ] @fold
