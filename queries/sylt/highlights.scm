@@ -5,6 +5,11 @@
 ] @keyword.operator
 
 [
+  "from"
+  "use"
+] @keyword
+
+[
   "+"
   "-"
   "*"
