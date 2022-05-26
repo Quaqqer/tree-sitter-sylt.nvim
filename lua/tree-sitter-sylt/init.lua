@@ -14,7 +14,7 @@ function M.setup()
 	parser_config.sylt = {
 		install_info = {
 			url = "https://github.com/Quaqqer/tree-sitter-sylt",
-			files = { "src/parser.c", "src/scanner.c" },
+			files = { "src/parser.c" },
 			branch = "main",
 		},
 		maintainers = { "@Quaqqer" },
