@@ -16,7 +16,7 @@
   "=="
   "!="
   "<=>"
-  "<!>"
+  (unreachable)
 ] @operator
 
 [
